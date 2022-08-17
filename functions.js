@@ -1,6 +1,4 @@
-function exerciseByronThePoodle() {
-    const dogName = "Byron";
-    const dogBreed = "poodle";
+function exerciseDog(dogName, dogBreed) {
     console.log(`Wake ${dogName} the ${dogBreed}`);
     console.log(`Leash ${dogName} the ${dogBreed}`);
     console.log(`Walk to the park ${dogName} the ${dogBreed}`);
